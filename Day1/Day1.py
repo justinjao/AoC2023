@@ -1,6 +1,6 @@
 import pandas as pd
 
-file = open("input.txt", "r")
+file = open("../input/day1/input.txt", "r")
 content = file.read()
 
 split_lines = content.splitlines()
